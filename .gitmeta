@@ -1,17 +1,21 @@
-commit QmYLVvw2PhCSod3KFjpQngdQ4jpmJPajEnx9F9iKawCYcq
+commit QmWey2SUs4FnrNvbnezXrpXK1yBYTJFXvBj4jGxAt3CW6K
 Branch: main
 
 ------------------------------
 
 chown -h 1000:1000 './.gitmeta'
 chmod 0664 './.gitmeta'
-/usr/bin/touch -hcmd "2024-01-28 17:49:55.6892415950 -0300" './.gitmeta'
-/usr/bin/touch -hcad "2024-01-28 17:42:47.5936324620 -0300" './.gitmeta'
+/usr/bin/touch -hcmd "2024-01-28 18:08:46.2701949990 -0300" './.gitmeta'
+/usr/bin/touch -hcad "2024-01-28 17:49:55.7252415680 -0300" './.gitmeta'
 chown -h 1000:1000 './.gitmeta-cid'
 chmod 0664 './.gitmeta-cid'
-/usr/bin/touch -hcmd "2024-01-28 17:49:55.6372416350 -0300" './.gitmeta-cid'
-/usr/bin/touch -hcad "2024-01-28 17:49:55.6812416010 -0300" './.gitmeta-cid'
-chown -h 1000:1000 './README.md'
-chmod 0664 './README.md'
-/usr/bin/touch -hcmd "2024-01-28 17:49:36.4732563130 -0300" './README.md'
-/usr/bin/touch -hcad "2024-01-28 17:49:46.7892483880 -0300" './README.md'
+/usr/bin/touch -hcmd "2024-01-28 18:08:46.2141949700 -0300" './.gitmeta-cid'
+/usr/bin/touch -hcad "2024-01-28 18:08:46.2581949930 -0300" './.gitmeta-cid'
+chown -h 1000:1000 './.legacy/StreetChaves_1.5A.rar.cid'
+chmod 0664 './.legacy/StreetChaves_1.5A.rar.cid'
+/usr/bin/touch -hcmd "2024-01-28 18:06:38.6221195410 -0300" './.legacy/StreetChaves_1.5A.rar.cid'
+/usr/bin/touch -hcad "2024-01-28 18:07:09.9261401480 -0300" './.legacy/StreetChaves_1.5A.rar.cid'
+chown -h 1000:1000 './.legacy/StreetChaves_1.5A.rar.weborigin'
+chmod 0664 './.legacy/StreetChaves_1.5A.rar.weborigin'
+/usr/bin/touch -hcmd "2024-01-28 04:04:20.8449340000 -0300" './.legacy/StreetChaves_1.5A.rar.weborigin'
+/usr/bin/touch -hcad "2024-01-28 18:07:09.9301401510 -0300" './.legacy/StreetChaves_1.5A.rar.weborigin'
