@@ -1,25 +1,21 @@
-commit QmQouyFEzbpc45Du51GtvfVTnR3ixxdmRQLeudnAr2CDeF
+commit QmekFbgNKw9gaiKWqAqRwP4SnmRcRJMSCyuESaXcqJ2dsZ
 Branch: main
 
 ------------------------------
 
+chown -h 1000:1000 './.gitignore'
+chmod 0664 './.gitignore'
+/usr/bin/touch -hcmd "2024-01-28 17:36:22.7541790880 -0300" './.gitignore'
+/usr/bin/touch -hcad "2024-01-28 17:36:28.4021688860 -0300" './.gitignore'
 chown -h 1000:1000 './.gitmeta'
 chmod 0664 './.gitmeta'
-/usr/bin/touch -hcmd "2024-01-28 17:33:51.3264865320 -0300" './.gitmeta'
-/usr/bin/touch -hcad "2024-01-28 17:16:43.9422973890 -0300" './.gitmeta'
+/usr/bin/touch -hcmd "2024-01-28 17:36:44.7541398040 -0300" './.gitmeta'
+/usr/bin/touch -hcad "2024-01-28 17:33:51.3784864140 -0300" './.gitmeta'
 chown -h 1000:1000 './.gitmeta-cid'
 chmod 0664 './.gitmeta-cid'
-/usr/bin/touch -hcmd "2024-01-28 17:33:51.2704866590 -0300" './.gitmeta-cid'
-/usr/bin/touch -hcad "2024-01-28 17:33:51.3184865500 -0300" './.gitmeta-cid'
+/usr/bin/touch -hcmd "2024-01-28 17:36:44.7021398950 -0300" './.gitmeta-cid'
+/usr/bin/touch -hcad "2024-01-28 17:36:44.7501398110 -0300" './.gitmeta-cid'
 chown -h 1000:1000 './README.md'
 chmod 0664 './README.md'
-/usr/bin/touch -hcmd "2024-01-28 17:33:15.4305702900 -0300" './README.md'
-/usr/bin/touch -hcad "2024-01-28 17:33:22.3705537340 -0300" './README.md'
-chown -h 1000:1000 './STREET CHAVES.txt'
-chmod 0664 './STREET CHAVES.txt'
-/usr/bin/touch -hcmd "2024-01-28 17:32:27.3346901160 -0300" './STREET CHAVES.txt'
-/usr/bin/touch -hcad "2024-01-28 17:33:22.3705537340 -0300" './STREET CHAVES.txt'
-chown -h 1000:1000 './Tasks.txt'
-chmod 0664 './Tasks.txt'
-/usr/bin/touch -hcmd "2024-01-28 17:25:47.5321568900 -0300" './Tasks.txt'
-/usr/bin/touch -hcad "2024-01-28 17:33:22.3705537340 -0300" './Tasks.txt'
+/usr/bin/touch -hcmd "2024-01-28 17:35:51.0902378360 -0300" './README.md'
+/usr/bin/touch -hcad "2024-01-28 17:35:55.1982300620 -0300" './README.md'
