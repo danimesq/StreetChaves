@@ -1,7 +1,10 @@
 Branch: main
-.gitignore: QmXQgZvP3DKjZHGWca6xeVkeNfYPN2qoRJC5pNkZUUURjm
-Animacoes/Thumbs.db: QmctfEaoqvgTHaG5nbj6xULXYbaF9m8s78GgetwoyLYdem
-Cenarios/Thumbs.db: Qmb5iuxxxtjs4GjGda4b1DDukMc5kK7DY6psxQN5y3F4mc
-Efeitos/Thumbs.db: QmXg2d6AqEGZZ2zHCtA6BFzTMEYTfPaqat3KcLUY3LajBS
-Lutadores/Thumbs.db: QmRKLpWPqAbFHaCqdgiMFaaidKKYRoee8ydFvvvAN5w3j4
-Rostos/Thumbs.db: QmNfpkXz6ud9Pe4xuB6yaoLsruD2Z8yhetQ9ysH4cnK3YV
+Chaves.exe.cid: QmVS7C7yfiYL7ufWmPxze1A1yuHggcUZFjnVAgkExkz1K3
+Chaves.exe.webpresent: Qma5LDpsZhJ3jPDpCrtE5bXRV9tCx2FosYqBWrCdFwpghF
+Tasks.txt: QmaxSesmjhv8Jokdp7TBL9htgDAkKuQ51vn9WXkj97s52X
+distribute-0.sh: QmdB8HUJgKw6Jbd99joyhuuRo5iCTRhtvVHVhH6g1JdTAy
+distribute-1.sh: QmcFfhdH47uHGsKAFpziCJjtuVpDvAwtFSLHGFwHRjGpYk
+distribute-2.sh: QmcZfP75gptXRo7Ri6ZdtN4W9aWfZLsBTxBZ6qTfpVcvLm
+distribute-3.sh: QmfJVx1ZAfMUZuqbWthQgoAr9vt4Yd2e32AwJefL9VzyQJ
+distribute.sh: QmeUxskryhSRXccPLSiShFAeMupemsDShr3AS6G8BFd2Sf
+init.sh: QmZF9Bbwm1GM6qsUe4bTuW9pBVcCPWp8vYPR43QrAr93F3
