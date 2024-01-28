@@ -1,5 +1,41 @@
-commit QmY69cFHnuRKf5mVGZVfM1bw4dVpcnBYdfUwXwk5wJ2Zwn
-Branch: HEAD
+commit QmXKMT2BuaFhNgMFzwMSimBy2tSKQe2pP74bn8JpKg6tyT
+Branch: main
 
 ------------------------------
 
+chown -h 1000:1000 './.gitmeta'
+chmod 0664 './.gitmeta'
+/usr/bin/touch -hcmd "2024-01-28 16:48:59.2304625440 -0300" './.gitmeta'
+/usr/bin/touch -hcad "2024-01-28 16:48:59.2544615300 -0300" './.gitmeta'
+chown -h 1000:1000 './.gitmeta-cid'
+chmod 0664 './.gitmeta-cid'
+/usr/bin/touch -hcmd "2024-01-28 16:48:59.1784647390 -0300" './.gitmeta-cid'
+/usr/bin/touch -hcad "2024-01-28 16:48:59.2224628810 -0300" './.gitmeta-cid'
+chown -h 1000:1000 './Efeitos/Efeito-021.bmp'
+chmod 0664 './Efeitos/Efeito-021.bmp'
+/usr/bin/touch -hcmd "2024-01-28 16:46:21.2446215900 -0300" './Efeitos/Efeito-021.bmp'
+/usr/bin/touch -hcad "2024-01-28 16:46:23.9886395620 -0300" './Efeitos/Efeito-021.bmp'
+chown -h 1000:1000 './Efeitos/Efeito-022.bmp'
+chmod 0664 './Efeitos/Efeito-022.bmp'
+/usr/bin/touch -hcmd "2024-01-28 16:46:49.1087320490 -0300" './Efeitos/Efeito-022.bmp'
+/usr/bin/touch -hcad "2024-01-28 16:46:51.9925749210 -0300" './Efeitos/Efeito-022.bmp'
+chown -h 1000:1000 './Efeitos/Efeito-023.bmp'
+chmod 0664 './Efeitos/Efeito-023.bmp'
+/usr/bin/touch -hcmd "2024-01-28 16:47:00.4841174430 -0300" './Efeitos/Efeito-023.bmp'
+/usr/bin/touch -hcad "2024-01-28 16:47:02.9919837780 -0300" './Efeitos/Efeito-023.bmp'
+chown -h 1000:1000 './Efeitos/Efeito-024.bmp'
+chmod 0664 './Efeitos/Efeito-024.bmp'
+/usr/bin/touch -hcmd "2024-01-28 16:47:16.7712611230 -0300" './Efeitos/Efeito-024.bmp'
+/usr/bin/touch -hcad "2024-01-28 16:47:18.9911465190 -0300" './Efeitos/Efeito-024.bmp'
+chown -h 1000:1000 './Efeitos/Efeito-025.bmp'
+chmod 0664 './Efeitos/Efeito-025.bmp'
+/usr/bin/touch -hcmd "2024-01-28 16:47:34.3383678660 -0300" './Efeitos/Efeito-025.bmp'
+/usr/bin/touch -hcad "2024-01-28 16:47:36.9902356850 -0300" './Efeitos/Efeito-025.bmp'
+chown -h 1000:1000 './Efeitos/Efeito-026.bmp'
+chmod 0664 './Efeitos/Efeito-026.bmp'
+/usr/bin/touch -hcmd "2024-01-28 16:47:44.8018503570 -0300" './Efeitos/Efeito-026.bmp'
+/usr/bin/touch -hcad "2024-01-28 16:47:47.9896947990 -0300" './Efeitos/Efeito-026.bmp'
+chown -h 1000:1000 './Efeitos/Efeito-027.bmp'
+chmod 0664 './Efeitos/Efeito-027.bmp'
+/usr/bin/touch -hcmd "2024-01-28 16:46:35.1767129660 -0300" './Efeitos/Efeito-027.bmp'
+/usr/bin/touch -hcad "2024-01-28 16:46:37.9807313970 -0300" './Efeitos/Efeito-027.bmp'
