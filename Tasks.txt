@@ -1,2 +1,4 @@
 Pending for distribute.sh:
 - add a "version" file, and dinamically use version from this for the folder/files
+
+- re-upload Cybergamba's sites to neocities and use IPFS CIDs
