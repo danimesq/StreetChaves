@@ -24,7 +24,7 @@ https://web.archive.org/web/20091027024001/http://www.geocities.com/cybergamba20
 
 https://web.archive.org/web/20110521021828/http://cybergamba.com.br/
 
-https://web.archive.org/web/20091026234225/http://www.geocities.com/cybergamba2003alt/index
+https://www.geocities.ws/cybergamba2003alt/
 
 cybergamba@bol.com.br (provávelmente esse e-mail não funciona mais/não é mais lido com frequência/abandonado)
 

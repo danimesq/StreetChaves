@@ -2,3 +2,8 @@ Pending for distribute.sh:
 - add a "version" file, and dinamically use version from this for the folder/files
 
 - re-upload Cybergamba's sites to neocities and use IPFS CIDs
+
+Decompile the source (do it for other Cybergamba/Chaves games as well):
+insp: https://archive.is/ZU2xs http://web.archive.org/web/20240128224010/https://pt.everybodywiki.com/Street_Chaves
+hands on search: https://www.google.com/search?q=decompile+.exe+Delphi+5&source=lmns&bih=643&biw=1366&client=firefox-b-d&hl=pt-BR&sa=X&ved=2ahUKEwjW2MLstYOEAxU_J7kGHU78CX0Q0pQJKAB6BAgBEAI
+hands on links: https://littleoak.wordpress.com/2009/02/19/como-decompilar-programas-em-delphi-how-to-decompiler-delphi-application-decompilar-delphi/ https://forum.ragezone.com/threads/development-delphi-decompiler-v1-1-0-194-remastered.1194080/
