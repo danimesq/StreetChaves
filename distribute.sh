@@ -1,5 +1,4 @@
 . ./version
-echo "Version: $version"
 
 if [ ! -e StreetChaves_"$version" ]; then mkdir StreetChaves_"$version";exportfolderstatus="non-existing"; fi
 

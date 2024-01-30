@@ -15,7 +15,7 @@ The idea is to enable and inspire the flourishing of forks with "mods"; I'll do 
 1. Be sure to be at an Unix (like MacOS) or Linux environment.
 2. Fork and/or clone this repo to your machine
 3. Install [webpresent](https://github.com/FilePeace/webpresent) and, on the StreetChaves folder, run `init.sh` so Chaves.exe will be downloaded
-4. Do the modifications you need
+4. Do the modifications you need (for .wav files, keep them mono instead of stereo and export as 8bit pcm - pcm_u8)
 5. run `distribute.sh`
 
 ## Footer about Cybergamba
