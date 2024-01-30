@@ -1,15 +1,18 @@
-if [ ! -e StreetChaves_1.5.2A ]; then mkdir StreetChaves_1.5.2A;exportfolderstatus="non-existing"; fi
+. ./version
+echo "Version: $version"
 
-cp -r Animacoes ./StreetChaves_1.5.2A/
-cp -r Cenarios ./StreetChaves_1.5.2A/
-cp -r Efeitos ./StreetChaves_1.5.2A/
-cp -r Falas ./StreetChaves_1.5.2A/
-cp -r Lutadores ./StreetChaves_1.5.2A/
-cp -r Musicas ./StreetChaves_1.5.2A/
-cp -r Rostos ./StreetChaves_1.5.2A/
-cp -r Sons ./StreetChaves_1.5.2A/
-cp Chaves.exe ./StreetChaves_1.5.2A/
-cp 'STREET CHAVES.txt' ./StreetChaves_1.5.2A/
+if [ ! -e StreetChaves_"$version" ]; then mkdir StreetChaves_"$version";exportfolderstatus="non-existing"; fi
+
+cp -r Animacoes ./StreetChaves_"$version"/
+cp -r Cenarios ./StreetChaves_"$version"/
+cp -r Efeitos ./StreetChaves_"$version"/
+cp -r Falas ./StreetChaves_"$version"/
+cp -r Lutadores ./StreetChaves_"$version"/
+cp -r Musicas ./StreetChaves_"$version"/
+cp -r Rostos ./StreetChaves_"$version"/
+cp -r Sons ./StreetChaves_"$version"/
+cp Chaves.exe ./StreetChaves_"$version"/
+cp 'STREET CHAVES.txt' ./StreetChaves_"$version"/
 
 if ! dpkg -l | grep -q rar; then
   echo -e "
@@ -19,14 +22,14 @@ Installing dependency 'rar'...
   sudo apt-get install rar
 fi
 
-rar a StreetChaves_1.5.2A.rar StreetChaves_1.5.2A
-ipfs add -q --only-hash StreetChaves_1.5.2A.rar > StreetChaves_1.5.2A.rar.cid
+rar a StreetChaves_"$version".rar StreetChaves_"$version"
+ipfs add -q --only-hash StreetChaves_"$version".rar > StreetChaves_"$version".rar.cid
 
 echo "Distribution ready!"
 echo "Created files:"
-echo "[1/2] StreetChaves_1.5.2A.rar"
-echo "[2/2] StreetChaves_1.5.2A.rar.cid"
+echo "[1/2] StreetChaves_"$version".rar"
+echo "[2/2] StreetChaves_"$version".rar.cid"
 
 if [ "$exportfolderstatus" = "non-existing" ]; then
-   rm -r StreetChaves_1.5.2A
+   rm -r StreetChaves_"$version"
 fi

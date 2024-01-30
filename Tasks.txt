@@ -1,7 +1,6 @@
-Pending for distribute.sh:
-- add a "version" file, and dinamically use version from this for the folder/files
+- re-upload Cybergamba's sites to neocities and use IPFS CIDs ; then update "STREET CHAVES.txt" and "README.md"
 
-- re-upload Cybergamba's sites to neocities and use IPFS CIDs
+- forks.md: tutorials for forks, such as for the bmps and how to export the wavs from Audacity (change Hz, stereo->mono, 8bit, etc)
 
 Decompile the source (do it for other Cybergamba/Chaves games as well):
 insp: https://archive.is/ZU2xs http://web.archive.org/web/20240128224010/https://pt.everybodywiki.com/Street_Chaves
